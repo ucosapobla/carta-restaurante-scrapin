@@ -1,0 +1,22 @@
+{
+  "_id": "1776",
+  "signatura": "R/4710",
+  "archivos": [
+    {
+      "archivo": "cartas-web\\carta-3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f.pdf",
+      "url": "https://cdn.website.dish.co/media/96/db/9915202/Menu.pdf",
+      "tipo": "pdf",
+      "sha256": "3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f",
+      "bytes": 3266790,
+      "fecha_descarga": "2026-11-24T11:03:27.635Z"
+    },
+    {
+      "archivo": "cartas-web\\carta-3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f.pdf",
+      "url": "https://cdn.website.dish.co/media/2a/36/9915203/Menu.pdf",
+      "tipo": "pdf",
+      "sha256": "3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f",
+      "bytes": 3266790,
+      "fecha_descarga": "2026-11-24T11:03:27.900Z"
+    }
+  ]
+}

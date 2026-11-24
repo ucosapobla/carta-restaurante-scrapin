@@ -10,9 +10,11 @@
   "scripts": {
     "importar": "node src/import-cli.js",
     "iniciar:maps": "node src/login-maps.js",
-    "recorrer": "node src/crawl-maps.js"
+    "recorrer": "node src/crawl-maps.js",
+    "recorrer:web": "node src/crawl-web.js"
   },
   "dependencies": {
+    "pdfjs-dist": "^6.5.438",
     "playwright": "^1.65.0"
   }
 }

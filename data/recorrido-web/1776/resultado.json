@@ -1,0 +1,1103 @@
+{
+  "_id": "1776",
+  "signatura": "R/4710",
+  "huella_ficha": "91a5425549801f1296908c8a0efa56f1a1e3106d76ab1ca80bd9465b5e9eaf9e",
+  "fecha_consulta": "2026-11-24T11:03:24.370Z",
+  "estado": "carta_localizada",
+  "web_oficial": "https://alquimiacalaratjada.eatbu.com/?lang=es",
+  "origen_web": "google_maps",
+  "cartas": [
+    {
+      "url": "https://cdn.website.dish.co/media/96/db/9915202/Menu.pdf",
+      "tipo": "pdf",
+      "enlace": "Menú",
+      "archivo": "cartas-web\\carta-3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f.pdf",
+      "sha256": "3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f",
+      "bytes": 3266790,
+      "fecha_descarga": "2026-11-24T11:03:27.635Z",
+      "paginas": 8,
+      "productos": [
+        {
+          "nombre": "Nuggets",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Spaghetti Napoli",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Hake Filet",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Chicken escalope",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Pulpo a la Brasa",
+          "precio": 22.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Pan Brioche",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Steak Tartar",
+          "precio": 28,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Gambas al Ajillo",
+          "precio": 17,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Focaccia",
+          "precio": 6.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio de Ternera",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vitello Tonato",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Tartar Salmón",
+          "precio": 19,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio al Tartufo",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vieiras Ahumadas",
+          "precio": 24.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio de Ternera",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio al Tartufo",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Gambas al Ajillo",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Con aguacate, mango, estilo asiático",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vieiras Ahumadas",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Spaghetti al limón",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle solomillo",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle negro frutti di mare",
+          "precio": 21.5,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle con salmón",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Lubina acevichada",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Lubina plancha",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Salmón parmesano",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Atún Tagliiata",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Bacalao confitado",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Crema de Tomate",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Sopa de Atún",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Crema de Tomate",
+          "precio": 12,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Filete de merluza",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Nuggets",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Spaghetti Napoli",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Escalope de Pollo",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Escalope de Pollo",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Con patatas fritas",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Secreto - iberisches Schweinfleisch (Min. 2 Pers.)",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Tintenfischtinte (Min. 2 Pers.)",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Rote Bete Carpaccio",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Tintenfischtinte (Min. 2 Pers.)",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "PAELLAS AUF VORBESTELLUNG MIND 2 PERSONAS",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Funghi Porcini",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado mit Gambas",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Gefüllte Aubergine",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "“Alquimia” Salat",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Capresse Salat",
+          "precio": 14.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Irisches Premium Entrecot",
+          "precio": 31.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet in Pfe\u0000ersauce",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet mit Ziegenkäse",
+          "precio": 35.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Tagliata Thunfisch",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Wolfbarsch ceviche Art",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Gegrillter Wolfsbarsch",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Lachs Parmesan",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Kabeljau Konfit",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Irisches Premium Entrecot",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Alquimia Art",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet in Pfe\u0000ersauce",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "mit karamellisierten Zwiebeln, Ziegenkäse und Marsala Reduktion",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Smoked Scallops",
+          "precio": 24.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Salmón Tartare",
+          "precio": 19,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Brioche Bread",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Prawns in Garlic",
+          "precio": 17,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Grilled Octopus",
+          "precio": 22.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Steak Tartare",
+          "precio": 28,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Vitello Tonato",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Focaccia",
+          "precio": 6.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio “Tartufo”",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio “Tartufo”",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With tru\u0000e, Parmesan and arugula",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With Parmesan and arugula",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "with tru\u0000e smash potatoes, kimchi mayonaise and Avocado",
+          "precio": 14.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With Avocado,Mango asían style",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Smoked Scallops",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Tagliatelle Salmon",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Lemon Spaghetti",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tagliatelle Beef Filet",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Black tagliatelle “frutti di Mare“",
+          "precio": 21.5,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Grilled Sea Bass Filet",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Cod Fish confit",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Sea Bass “ceviche” Style",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Salmon Parmesan",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tuna Tagliiata",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tomato cream Soup",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tuna soup",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tomato cream Soup",
+          "precio": 12,
+          "moneda": "EUR",
+          "pagina": 8
+        }
+      ]
+    },
+    {
+      "url": "https://cdn.website.dish.co/media/2a/36/9915203/Menu.pdf",
+      "tipo": "pdf",
+      "enlace": "Menú",
+      "archivo": "cartas-web\\carta-3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f.pdf",
+      "sha256": "3ace0181e09435496087e52adbb02e3baaac8c1e7acc8c1d193aed210512f33f",
+      "bytes": 3266790,
+      "fecha_descarga": "2026-11-24T11:03:27.900Z",
+      "paginas": 8,
+      "productos": [
+        {
+          "nombre": "Nuggets",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Spaghetti Napoli",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Hake Filet",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Chicken escalope",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "Pulpo a la Brasa",
+          "precio": 22.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Pan Brioche",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Steak Tartar",
+          "precio": 28,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Gambas al Ajillo",
+          "precio": 17,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Focaccia",
+          "precio": 6.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio de Ternera",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vitello Tonato",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Tartar Salmón",
+          "precio": 19,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio al Tartufo",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vieiras Ahumadas",
+          "precio": 24.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio de Ternera",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Carpaccio al Tartufo",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Gambas al Ajillo",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Con aguacate, mango, estilo asiático",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Vieiras Ahumadas",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "Spaghetti al limón",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle solomillo",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle negro frutti di mare",
+          "precio": 21.5,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Tagliatelle con salmón",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Lubina acevichada",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Lubina plancha",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Salmón parmesano",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Atún Tagliiata",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Bacalao confitado",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Crema de Tomate",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Sopa de Atún",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Crema de Tomate",
+          "precio": 12,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "Filete de merluza",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Nuggets",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Spaghetti Napoli",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Escalope de Pollo",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Escalope de Pollo",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Con patatas fritas",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "Secreto - iberisches Schweinfleisch (Min. 2 Pers.)",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Tintenfischtinte (Min. 2 Pers.)",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Rote Bete Carpaccio",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Tintenfischtinte (Min. 2 Pers.)",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "PAELLAS AUF VORBESTELLUNG MIND 2 PERSONAS",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Ofen Reis Funghi Porcini",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Geröstete Avocado mit Gambas",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Gefüllte Aubergine",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "“Alquimia” Salat",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Capresse Salat",
+          "precio": 14.9,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "Irisches Premium Entrecot",
+          "precio": 31.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet in Pfe\u0000ersauce",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet mit Ziegenkäse",
+          "precio": 35.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Tagliata Thunfisch",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Wolfbarsch ceviche Art",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Gegrillter Wolfsbarsch",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Lachs Parmesan",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Kabeljau Konfit",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Irisches Premium Entrecot",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Alquimia Art",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Rinderfilet in Pfe\u0000ersauce",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "mit karamellisierten Zwiebeln, Ziegenkäse und Marsala Reduktion",
+          "precio": 7.9,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "Smoked Scallops",
+          "precio": 24.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Salmón Tartare",
+          "precio": 19,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Brioche Bread",
+          "precio": 16.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Prawns in Garlic",
+          "precio": 17,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Grilled Octopus",
+          "precio": 22.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Steak Tartare",
+          "precio": 28,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Vitello Tonato",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Focaccia",
+          "precio": 6.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio “Tartufo”",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio",
+          "precio": 15.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Beef carpaccio “Tartufo”",
+          "precio": 14,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With tru\u0000e, Parmesan and arugula",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With Parmesan and arugula",
+          "precio": 19.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "with tru\u0000e smash potatoes, kimchi mayonaise and Avocado",
+          "precio": 14.9,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "With Avocado,Mango asían style",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Smoked Scallops",
+          "precio": 25.5,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "Tagliatelle Salmon",
+          "precio": 18,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Lemon Spaghetti",
+          "precio": 18.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tagliatelle Beef Filet",
+          "precio": 20.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Black tagliatelle “frutti di Mare“",
+          "precio": 21.5,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Grilled Sea Bass Filet",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Cod Fish confit",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Sea Bass “ceviche” Style",
+          "precio": 21.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Salmon Parmesan",
+          "precio": 19.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tuna Tagliiata",
+          "precio": 22.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tomato cream Soup",
+          "precio": 33.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tuna soup",
+          "precio": 17.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "Tomato cream Soup",
+          "precio": 12,
+          "moneda": "EUR",
+          "pagina": 8
+        }
+      ]
+    }
+  ]
+}

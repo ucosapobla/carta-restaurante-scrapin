@@ -1,0 +1,524 @@
+{
+  "_id": "1215",
+  "signatura": "R/3908",
+  "huella_ficha": "b920978e1804e6f7ffb52c413a87906bc4531e3a421596258217daf5aaecf54c",
+  "fecha_consulta": "2026-11-24T11:03:17.820Z",
+  "estado": "carta_localizada",
+  "web_oficial": "https://www.la-taperia.es/",
+  "origen_web": "google_maps",
+  "cartas": [
+    {
+      "url": "https://www.la-taperia.es/menu-carta",
+      "tipo": "html",
+      "enlace": "Menu/Carta",
+      "pdfs": [
+        {
+          "url": "https://www.la-taperia.es/_files/ugd/e2a590_bb0afc5d21854b038da7b17142bdd7db.pdf",
+          "enlace": "Menue"
+        },
+        {
+          "url": "https://www.la-taperia.es/_files/ugd/e2a590_151fde4bc08b4b74a3c6d2be6f3a226b.pdf",
+          "enlace": "DSGVO"
+        }
+      ],
+      "texto": "La Taperia \n\nbar de tapas\n\nTaperia\n\nMenu/Carta\n\nMenu para grupos\n\nHorario de apertura\n\nMenu del día\n\n \n\nLa Taperia\nMenue\n\nCarrer de la Marina 2\n\nPortals Nous  07181 Mallorca\n\n© 2023 by La Taperia\n\nDSGVO\nFollow Us"
+    },
+    {
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_bb0afc5d21854b038da7b17142bdd7db.pdf",
+      "enlace": "Menue",
+      "tipo": "pdf",
+      "archivo": "cartas-web\\carta-11c20b81005e381a9c0da1f6a66e9721f89f97c38e3c91295f3e81db24a83cc6.pdf",
+      "sha256": "11c20b81005e381a9c0da1f6a66e9721f89f97c38e3c91295f3e81db24a83cc6",
+      "bytes": 3045974,
+      "fecha_descarga": "2026-11-24T11:03:21.506Z",
+      "paginas": 19,
+      "productos": [
+        {
+          "nombre": "PAN CON ALIOLI",
+          "precio": 4,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "PAN CON TOMATE",
+          "precio": 7.5,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "GAZPACHO",
+          "precio": 7.5,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "PATATAS BRAVAS",
+          "precio": 8.5,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "COLIFLOR EMPANIZADA",
+          "precio": 9.8,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "A C E I T U N A S, O L I V E S, OLIVEN",
+          "precio": 3.5,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "PIMIENTOS PADRÓN",
+          "precio": 8.5,
+          "moneda": "EUR",
+          "pagina": 1
+        },
+        {
+          "nombre": "CARPACCIO DE REMOLACHA",
+          "precio": 14.8,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "CAMEMBERT FRITO CON SALSA",
+          "precio": 12.8,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "MANCHEGO ASADO",
+          "precio": 16.8,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "FONDUÉ DE QUESO",
+          "precio": 14.8,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "TABLA DE MANCHEGO",
+          "precio": 15.8,
+          "moneda": "EUR",
+          "pagina": 2
+        },
+        {
+          "nombre": "HINOJO CARAMELIZADO",
+          "precio": 13.8,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "BERENJENA RELLENA",
+          "precio": 13.8,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "QUESO DE CABRA CON MIEL",
+          "precio": 15.8,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "BURRATA CON ACEITE DE TRUFA",
+          "precio": 17.4,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "ALCACHOFAS CON MANCHEGO",
+          "precio": 13.8,
+          "moneda": "EUR",
+          "pagina": 3
+        },
+        {
+          "nombre": "QUESO DE CABRA CON BACON",
+          "precio": 9.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "ALITAS CRUJIENTES",
+          "precio": 12.8,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "DÁTILES CON BACON",
+          "precio": 8.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "CROQUETAS DE JAMÓN",
+          "precio": 9.9,
+          "moneda": "EUR",
+          "pagina": 4
+        },
+        {
+          "nombre": "MORCILLA DE BURGOS",
+          "precio": 10.8,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "EMPANADA DE CARNE",
+          "precio": 8.8,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "ALBÓNDIGAS",
+          "precio": 9.8,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "CHORIZO AL VINO",
+          "precio": 10.8,
+          "moneda": "EUR",
+          "pagina": 5
+        },
+        {
+          "nombre": "POLLO A LA PIMIENTA",
+          "precio": 11.8,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "M I N I - BURGER CON CORDONIZ",
+          "precio": 8.8,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "TORREZNO CON SALSA AGUACATE",
+          "precio": 12.8,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "BURRATA CON JAMÓN SERRANO",
+          "precio": 19.6,
+          "moneda": "EUR",
+          "pagina": 6
+        },
+        {
+          "nombre": "ENTRECÔTE ( A P R O X. 2 0 0 G R)",
+          "precio": 24.8,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "CHULETAS DE CORDERO",
+          "precio": 18.6,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "HUEVOS ROTOS CON JAMÓN",
+          "precio": 16.8,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "MANCHEGO Y JAMÓN SERRANO",
+          "precio": 15.8,
+          "moneda": "EUR",
+          "pagina": 7
+        },
+        {
+          "nombre": "CROQUETAS DE BACALAO",
+          "precio": 9.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "EMPANADA DE ATÚN",
+          "precio": 8.4,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "GILDA DE LA T A P E R I A ( 1 U D.)",
+          "precio": 2.5,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "BOQUERONES EN VINAGRE",
+          "precio": 12.9,
+          "moneda": "EUR",
+          "pagina": 8
+        },
+        {
+          "nombre": "PULPO A LA PLANCHA CON",
+          "precio": 19.8,
+          "moneda": "EUR",
+          "pagina": 10
+        },
+        {
+          "nombre": "GAMBAS AL AJILLO",
+          "precio": 18.8,
+          "moneda": "EUR",
+          "pagina": 10
+        },
+        {
+          "nombre": "MOUSSE DE CHOCOLATE CON SAL",
+          "precio": 7.8,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "CRÈME BRÛLÉE CON",
+          "precio": 8.8,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "TARTA DE QUESO",
+          "precio": 7.8,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "BAILEYS TIRAMISU",
+          "precio": 8.8,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "SORBET DE MANGO",
+          "precio": 7.2,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "COULANT DE",
+          "precio": 8.8,
+          "moneda": "EUR",
+          "pagina": 11
+        },
+        {
+          "nombre": "Cola, Zero, Fanta, Sprite",
+          "precio": 3.6,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Ginger Ale, Tonic, Bitter Kas",
+          "precio": 3.6,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Estrella Galicia (Botella) 0,33l",
+          "precio": 3.8,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Cruz Campo (Botella)",
+          "precio": 3.5,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Ginger Beer Puig Mallorca (without alcohol)",
+          "precio": 4,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Caña 0,4l",
+          "precio": 4,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Cerveza (sin alcohol)",
+          "precio": 3.8,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Rosa Blanca (Botella)",
+          "precio": 3.8,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "con gas",
+          "precio": 3.5,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "SANGRIA",
+          "precio": 4,
+          "moneda": "EUR",
+          "pagina": 12
+        },
+        {
+          "nombre": "Café doble/ Espresso doble",
+          "precio": 3.8,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Café cortado",
+          "precio": 2.2,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Café bombóm",
+          "precio": 3.6,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Café americano",
+          "precio": 2.9,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Café con leche",
+          "precio": 3.3,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Capuccino",
+          "precio": 4.2,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Carajillo (1cl)",
+          "precio": 4.5,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Irish Coffee",
+          "precio": 8.5,
+          "moneda": "EUR",
+          "pagina": 15
+        },
+        {
+          "nombre": "Havanna 3 años",
+          "precio": 7.5,
+          "moneda": "EUR",
+          "pagina": 16
+        },
+        {
+          "nombre": "Amazonas",
+          "precio": 7.5,
+          "moneda": "EUR",
+          "pagina": 16
+        },
+        {
+          "nombre": "Eristoff",
+          "precio": 6.5,
+          "moneda": "EUR",
+          "pagina": 17
+        },
+        {
+          "nombre": "Ramazotti",
+          "precio": 5.5,
+          "moneda": "EUR",
+          "pagina": 19
+        },
+        {
+          "nombre": "Yzaguirre Vermouth tinto",
+          "precio": 5.5,
+          "moneda": "EUR",
+          "pagina": 19
+        },
+        {
+          "nombre": "Yzaguirre Vermouth blanco",
+          "precio": 5.5,
+          "moneda": "EUR",
+          "pagina": 19
+        },
+        {
+          "nombre": "Campari",
+          "precio": 6.5,
+          "moneda": "EUR",
+          "pagina": 19
+        },
+        {
+          "nombre": "Averna",
+          "precio": 5.5,
+          "moneda": "EUR",
+          "pagina": 19
+        }
+      ]
+    },
+    {
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_151fde4bc08b4b74a3c6d2be6f3a226b.pdf",
+      "enlace": "DSGVO",
+      "tipo": "pdf",
+      "archivo": "cartas-web\\carta-eeface9b049598a3973cde1b992a3f8441e6b81f7d9f2a2fd9b874c9c1f6cb7a.pdf",
+      "sha256": "eeface9b049598a3973cde1b992a3f8441e6b81f7d9f2a2fd9b874c9c1f6cb7a",
+      "bytes": 181652,
+      "fecha_descarga": "2026-11-24T11:03:22.084Z",
+      "paginas": 13,
+      "productos": []
+    },
+    {
+      "url": "https://www.la-taperia.es/menu-para-grupos",
+      "tipo": "html",
+      "enlace": "Menu para grupos",
+      "pdfs": [
+        {
+          "url": "https://www.la-taperia.es/_files/ugd/e2a590_de81f49c78f642ca820bac9ce633428a.pdf",
+          "enlace": ""
+        },
+        {
+          "url": "https://www.la-taperia.es/_files/ugd/e2a590_151fde4bc08b4b74a3c6d2be6f3a226b.pdf",
+          "enlace": "DSGVO"
+        }
+      ],
+      "texto": "La Taperia \n\nbar de tapas\n\nTaperia\n\nMenu/Carta\n\nMenu para grupos\n\nHorario de apertura\n\nMenu del día\n\n \n\nCarrer de la Marina 2\n\nPortals Nous  07181 Mallorca\n\n© 2023 by La Taperia\n\nDSGVO\nFollow Us"
+    },
+    {
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_de81f49c78f642ca820bac9ce633428a.pdf",
+      "enlace": "",
+      "tipo": "pdf",
+      "archivo": "cartas-web\\carta-6d5333e1027622f25f91f818a7e48676035d1ff8f101a118f1fb7e63a54721f3.pdf",
+      "sha256": "6d5333e1027622f25f91f818a7e48676035d1ff8f101a118f1fb7e63a54721f3",
+      "bytes": 70793,
+      "fecha_descarga": "2026-11-24T11:03:22.210Z",
+      "paginas": 1,
+      "productos": []
+    },
+    {
+      "url": "https://www.la-taperia.es/general-8-2",
+      "tipo": "html",
+      "enlace": "Menu del día",
+      "pdfs": [
+        {
+          "url": "https://www.la-taperia.es/_files/ugd/e2a590_151fde4bc08b4b74a3c6d2be6f3a226b.pdf",
+          "enlace": "DSGVO"
+        }
+      ],
+      "texto": "La Taperia \n\nbar de tapas\n\nTaperia\n\nMenu/Carta\n\nMenu para grupos\n\nHorario de apertura\n\nMenu del día\n\n \n\nMenú del día\n\n​\n\nCarrer de la Marina 2\n\nPortals Nous  07181 Mallorca\n\n© 2023 by La Taperia\n\nDSGVO\nFollow Us"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e2a590_ed5b479093544259a8bf3470183bf935~mv2.jpg/v1/fill/w_600,h_849,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gr%C3%BCn%20Gold%20Edel%20Elegant%20Party%20Speisekarte%20Men%C3%BC%20Dokument-44.jpg",
+      "enlace": "Grün Gold Edel Elegant Party Speisekarte Menü Dokument-44.jpg",
+      "tipo": "imagen",
+      "archivo": "cartas-web\\carta-66df7233c0515a45fd1007bbb4017ad2fff9984b4fb3031cb4ff2e2395416ab9.jpg",
+      "sha256": "66df7233c0515a45fd1007bbb4017ad2fff9984b4fb3031cb4ff2e2395416ab9",
+      "bytes": 37818,
+      "fecha_descarga": "2026-11-24T11:03:22.303Z"
+    }
+  ]
+}

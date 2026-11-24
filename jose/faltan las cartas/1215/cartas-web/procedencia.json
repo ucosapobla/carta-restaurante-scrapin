@@ -1,0 +1,38 @@
+{
+  "_id": "1215",
+  "signatura": "R/3908",
+  "archivos": [
+    {
+      "archivo": "cartas-web\\carta-11c20b81005e381a9c0da1f6a66e9721f89f97c38e3c91295f3e81db24a83cc6.pdf",
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_bb0afc5d21854b038da7b17142bdd7db.pdf",
+      "tipo": "pdf",
+      "sha256": "11c20b81005e381a9c0da1f6a66e9721f89f97c38e3c91295f3e81db24a83cc6",
+      "bytes": 3045974,
+      "fecha_descarga": "2026-11-24T11:03:21.506Z"
+    },
+    {
+      "archivo": "cartas-web\\carta-eeface9b049598a3973cde1b992a3f8441e6b81f7d9f2a2fd9b874c9c1f6cb7a.pdf",
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_151fde4bc08b4b74a3c6d2be6f3a226b.pdf",
+      "tipo": "pdf",
+      "sha256": "eeface9b049598a3973cde1b992a3f8441e6b81f7d9f2a2fd9b874c9c1f6cb7a",
+      "bytes": 181652,
+      "fecha_descarga": "2026-11-24T11:03:22.084Z"
+    },
+    {
+      "archivo": "cartas-web\\carta-6d5333e1027622f25f91f818a7e48676035d1ff8f101a118f1fb7e63a54721f3.pdf",
+      "url": "https://www.la-taperia.es/_files/ugd/e2a590_de81f49c78f642ca820bac9ce633428a.pdf",
+      "tipo": "pdf",
+      "sha256": "6d5333e1027622f25f91f818a7e48676035d1ff8f101a118f1fb7e63a54721f3",
+      "bytes": 70793,
+      "fecha_descarga": "2026-11-24T11:03:22.210Z"
+    },
+    {
+      "archivo": "cartas-web\\carta-66df7233c0515a45fd1007bbb4017ad2fff9984b4fb3031cb4ff2e2395416ab9.jpg",
+      "url": "https://static.wixstatic.com/media/e2a590_ed5b479093544259a8bf3470183bf935~mv2.jpg/v1/fill/w_600,h_849,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gr%C3%BCn%20Gold%20Edel%20Elegant%20Party%20Speisekarte%20Men%C3%BC%20Dokument-44.jpg",
+      "tipo": "imagen",
+      "sha256": "66df7233c0515a45fd1007bbb4017ad2fff9984b4fb3031cb4ff2e2395416ab9",
+      "bytes": 37818,
+      "fecha_descarga": "2026-11-24T11:03:22.303Z"
+    }
+  ]
+}
